@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bag", "Bag\Bag.csproj", "{2BFC434D-5735-40F0-ABFD-932FCEBC1AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagTest", "BagTest\BagTest.csproj", "{A14AC3B7-F7C5-4691-AD44-D0ED6C12A674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BFC434D-5735-40F0-ABFD-932FCEBC1AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFC434D-5735-40F0-ABFD-932FCEBC1AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFC434D-5735-40F0-ABFD-932FCEBC1AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFC434D-5735-40F0-ABFD-932FCEBC1AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14AC3B7-F7C5-4691-AD44-D0ED6C12A674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14AC3B7-F7C5-4691-AD44-D0ED6C12A674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14AC3B7-F7C5-4691-AD44-D0ED6C12A674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14AC3B7-F7C5-4691-AD44-D0ED6C12A674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CFF095-180C-4571-AF78-1B321FBC4FD4}
+	EndGlobalSection
+EndGlobal
